@@ -13,7 +13,7 @@ Bootcamp da empresa GFT (Soluções de TI para entidades financeiras e indústri
 
 ## 📚 Atividades do Bootcamp
 - [Solução de Problemas em C#]()
-- [CRUD de Catalogo de Jogos com .NET(API)]()
+- [CRUD de Catalogo de Jogos com .NET(API)](https://github.com/MarcGabr/Bootcamp_GFT/tree/main/API%20Catalogo%20de%20Jogos)
 - [APP simples de cadastro de séries em .NET(Console)]()
 
 
